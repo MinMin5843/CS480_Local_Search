@@ -1,5 +1,5 @@
 # Overview
-This program implements local search using hill-climbing to for eggholder and N-Queens experiments. 
+This program implements local search using the hill-climbing algorithm to solve the Eggholder and N-Queens problems. 
 
 ## Usage
 1. Run the main method from the command line
